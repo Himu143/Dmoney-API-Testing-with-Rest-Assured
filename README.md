@@ -34,7 +34,7 @@
 `     -- allure generate allure-results --clean -o allure-report
       -- allure serve allure-results
       
-  ## Test cases:
+## Test cases:
   - Link: https://docs.google.com/spreadsheets/d/1z_YRpaBWZZ0RfGorGzfLSb2ToxBJe3mEZ47jQ7PEjgA/edit?usp=sharing
       
  ## Allure Reports: 
